@@ -1,2 +1,2 @@
 # AndroidStudio
-Proyectos descargados y creados bajo esta plataforma
+Proyectos creados bajo esta plataforma
